@@ -1,0 +1,14 @@
+Attivita: Server web con Esp8266
+Nome:
+Cognome:
+Classe:
+
+Aspetti critici
+<scrivere qua>
+
+Aspetti interessanti
+<scrivere qua>
+
+Ipotesi sul funzionamento del webserver apache
+<scrivere qua>
+
